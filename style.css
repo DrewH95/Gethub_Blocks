@@ -1,0 +1,39 @@
+.container {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    align-items: center;
+}
+
+.octocat{
+    width: 150px;
+}
+
+#rowGreen {
+    background-color: yellowgreen;
+    height: 200px;
+
+}
+
+#rowTeal {
+    background-color: teal;
+    height: 200px;
+}
+
+#rowRed {
+    background-color: tomato;
+    height: 200px;
+}
+
+
+h4 {
+    text-align: center;
+}
